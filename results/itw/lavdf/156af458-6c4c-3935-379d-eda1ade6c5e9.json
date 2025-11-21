@@ -1,0 +1,1190 @@
+{
+  "identifier": "156af458-6c4c-3935-379d-eda1ade6c5e9",
+  "path": "real-world-data/videos/156af458-6c4c-3935-379d-eda1ade6c5e9.mp4",
+  "label": 1,
+  "url": "https://www.youtube.com/watch?v=4BqyoTQLiy0&ab_channel=9001AIFakes",
+  "completed": true,
+  "message": "Video processing completed.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.8,
+      "num_frames": 345,
+      "duration": 13.8,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": false,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 345,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 345,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 0,
+        "fraction_frames_with_visible_speech": 0.0
+      },
+      "message": "[Not valid because]: The depicted person is not speaking at a part of (or throughout) this video segment. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The segment is of adequate duration.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 13.8,
+      "end": 17.36,
+      "num_frames": 89,
+      "duration": 3.5599999999999987,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [
+        {
+          "score": 0.06009972468018532,
+          "start": 15.338510513305664,
+          "end": 15.953108787536621
+        },
+        {
+          "score": 0.0211174339056015,
+          "start": 15.623617172241211,
+          "end": 16.537273406982422
+        },
+        {
+          "score": 0.018665138632059097,
+          "start": 15.335845947265625,
+          "end": 16.016387939453125
+        },
+        {
+          "score": 0.012444935739040375,
+          "start": 16.525997161865234,
+          "end": 17.017562866210938
+        },
+        {
+          "score": 0.010474744252860546,
+          "start": 14.969613075256348,
+          "end": 15.613919258117676
+        },
+        {
+          "score": 0.010324599221348763,
+          "start": 16.130342483520508,
+          "end": 16.73284912109375
+        },
+        {
+          "score": 0.007481257431209087,
+          "start": 15.470373153686523,
+          "end": 16.26457977294922
+        },
+        {
+          "score": 0.006667267065495253,
+          "start": 13.939330101013184,
+          "end": 14.513779640197754
+        },
+        {
+          "score": 0.005469074472784996,
+          "start": 16.66324806213379,
+          "end": 17.101350784301758
+        },
+        {
+          "score": 0.004895457997918129,
+          "start": 16.279123306274414,
+          "end": 16.84412956237793
+        },
+        {
+          "score": 0.004762575961649418,
+          "start": 13.800000190734863,
+          "end": 14.118026733398438
+        },
+        {
+          "score": 0.004567333962768316,
+          "start": 14.309414863586426,
+          "end": 14.89706802368164
+        },
+        {
+          "score": 0.0035097727086395025,
+          "start": 14.93397045135498,
+          "end": 15.467004776000977
+        },
+        {
+          "score": 0.0029592523351311684,
+          "start": 15.245157241821289,
+          "end": 15.858579635620117
+        },
+        {
+          "score": 0.002910272916778922,
+          "start": 15.709774017333984,
+          "end": 16.600561141967773
+        },
+        {
+          "score": 0.0028683552518486977,
+          "start": 14.632635116577148,
+          "end": 15.206155776977539
+        },
+        {
+          "score": 0.002519544679671526,
+          "start": 13.800000190734863,
+          "end": 14.014142990112305
+        },
+        {
+          "score": 0.0025059664621949196,
+          "start": 14.139466285705566,
+          "end": 14.723999977111816
+        },
+        {
+          "score": 0.0024439662229269743,
+          "start": 16.788660049438477,
+          "end": 17.232471466064453
+        },
+        {
+          "score": 0.0020463820546865463,
+          "start": 16.404268264770508,
+          "end": 16.907133102416992
+        },
+        {
+          "score": 0.0016557896742597222,
+          "start": 15.346549987792969,
+          "end": 16.09957504272461
+        },
+        {
+          "score": 0.0016133413882926106,
+          "start": 13.876635551452637,
+          "end": 14.427399635314941
+        },
+        {
+          "score": 0.0013381380122154951,
+          "start": 14.525457382202148,
+          "end": 15.115928649902344
+        },
+        {
+          "score": 0.001138307387009263,
+          "start": 16.717042922973633,
+          "end": 17.156465530395508
+        },
+        {
+          "score": 0.0010804913472384214,
+          "start": 15.831436157226562,
+          "end": 16.573074340820312
+        },
+        {
+          "score": 0.0010390591342002153,
+          "start": 14.902853012084961,
+          "end": 15.536086082458496
+        },
+        {
+          "score": 0.0008339177584275603,
+          "start": 16.929588317871094,
+          "end": 17.504596710205078
+        },
+        {
+          "score": 0.000673505594022572,
+          "start": 16.360685348510742,
+          "end": 16.87154197692871
+        },
+        {
+          "score": 0.0006583860376849771,
+          "start": 14.02865982055664,
+          "end": 14.576031684875488
+        },
+        {
+          "score": 0.0006292782491073012,
+          "start": 15.500984191894531,
+          "end": 16.38195037841797
+        }
+      ],
+      "valid": true,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": true,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 89,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 89,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 89,
+        "fraction_frames_with_visible_speech": 1.0
+      },
+      "message": "Valid segment. [Remarks] Faces detected at every frame. All detected faces are of adequate size to be processed. The depicted person is continuousely speaking during this segment. The segment is of adequate duration."
+    },
+    {
+      "start": 17.36,
+      "end": 21.32,
+      "num_frames": 99,
+      "duration": 3.960000000000001,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": false,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 99,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 99,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 0,
+        "fraction_frames_with_visible_speech": 0.0
+      },
+      "message": "[Not valid because]: The depicted person is not speaking at a part of (or throughout) this video segment. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The segment is of adequate duration.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 21.3213,
+      "end": 28.6813,
+      "num_frames": 184,
+      "duration": 7.359999999999999,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": false,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 184,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 184,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 0,
+        "fraction_frames_with_visible_speech": 0.0
+      },
+      "message": "[Not valid because]: The depicted person is not speaking at a part of (or throughout) this video segment. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The segment is of adequate duration.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 28.6813,
+      "end": 34.0013,
+      "num_frames": 133,
+      "duration": 5.32,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [
+        {
+          "score": 0.6829052567481995,
+          "start": 31.682270050048828,
+          "end": 32.45701599121094
+        },
+        {
+          "score": 0.18800069391727448,
+          "start": 31.70611572265625,
+          "end": 32.45406723022461
+        },
+        {
+          "score": 0.07281500101089478,
+          "start": 31.475021362304688,
+          "end": 32.268096923828125
+        },
+        {
+          "score": 0.04029979556798935,
+          "start": 31.25499725341797,
+          "end": 32.0794563293457
+        },
+        {
+          "score": 0.03834538161754608,
+          "start": 31.961151123046875,
+          "end": 32.704830169677734
+        },
+        {
+          "score": 0.028019219636917114,
+          "start": 32.91353225708008,
+          "end": 33.24794387817383
+        },
+        {
+          "score": 0.02537059225142002,
+          "start": 31.665494918823242,
+          "end": 32.49074935913086
+        },
+        {
+          "score": 0.018264267593622208,
+          "start": 32.11153030395508,
+          "end": 32.78693389892578
+        },
+        {
+          "score": 0.016694359481334686,
+          "start": 32.603294372558594,
+          "end": 33.05613708496094
+        },
+        {
+          "score": 0.012550128623843193,
+          "start": 31.172447204589844,
+          "end": 32.10310363769531
+        },
+        {
+          "score": 0.010908464901149273,
+          "start": 32.828006744384766,
+          "end": 33.20012283325195
+        },
+        {
+          "score": 0.009113683365285397,
+          "start": 32.36572265625,
+          "end": 32.921695709228516
+        },
+        {
+          "score": 0.007142731919884682,
+          "start": 31.654325485229492,
+          "end": 32.44129943847656
+        },
+        {
+          "score": 0.005892051849514246,
+          "start": 28.681299209594727,
+          "end": 28.960981369018555
+        },
+        {
+          "score": 0.004487515427172184,
+          "start": 29.753494262695312,
+          "end": 30.29303741455078
+        },
+        {
+          "score": 0.0040687029249966145,
+          "start": 32.895137786865234,
+          "end": 33.28471374511719
+        },
+        {
+          "score": 0.003860228694975376,
+          "start": 29.372114181518555,
+          "end": 29.90566062927246
+        },
+        {
+          "score": 0.0032989413011819124,
+          "start": 32.11323928833008,
+          "end": 32.81121826171875
+        },
+        {
+          "score": 0.0030650494154542685,
+          "start": 32.561180114746094,
+          "end": 32.97138214111328
+        },
+        {
+          "score": 0.002803476294502616,
+          "start": 31.12578582763672,
+          "end": 31.933475494384766
+        },
+        {
+          "score": 0.0026845631655305624,
+          "start": 33.2670783996582,
+          "end": 33.82218933105469
+        },
+        {
+          "score": 0.0026694464031606913,
+          "start": 30.062301635742188,
+          "end": 30.630338668823242
+        },
+        {
+          "score": 0.002578211249783635,
+          "start": 28.9143009185791,
+          "end": 29.406726837158203
+        },
+        {
+          "score": 0.0024181546177715063,
+          "start": 28.681299209594727,
+          "end": 28.890148162841797
+        },
+        {
+          "score": 0.0022878197487443686,
+          "start": 33.58641815185547,
+          "end": 34.178958892822266
+        },
+        {
+          "score": 0.002184937009587884,
+          "start": 31.640432357788086,
+          "end": 32.49705123901367
+        },
+        {
+          "score": 0.0021668407134711742,
+          "start": 29.209609985351562,
+          "end": 29.729618072509766
+        },
+        {
+          "score": 0.002046102425083518,
+          "start": 32.988609313964844,
+          "end": 33.47489547729492
+        },
+        {
+          "score": 0.0018008282640948892,
+          "start": 30.34677505493164,
+          "end": 30.953031539916992
+        },
+        {
+          "score": 0.0017035584896802902,
+          "start": 30.82867431640625,
+          "end": 31.639617919921875
+        },
+        {
+          "score": 0.0016166857676580548,
+          "start": 32.78321838378906,
+          "end": 33.16441345214844
+        },
+        {
+          "score": 0.0014721817569807172,
+          "start": 29.92451286315918,
+          "end": 30.46533203125
+        },
+        {
+          "score": 0.0014360055793076754,
+          "start": 29.480424880981445,
+          "end": 29.987977981567383
+        },
+        {
+          "score": 0.0011575041571632028,
+          "start": 28.741493225097656,
+          "end": 29.260459899902344
+        },
+        {
+          "score": 0.001091785030439496,
+          "start": 31.49502182006836,
+          "end": 32.342227935791016
+        },
+        {
+          "score": 0.0009955769637599587,
+          "start": 31.949478149414062,
+          "end": 32.66918182373047
+        },
+        {
+          "score": 0.0009589581750333309,
+          "start": 29.091630935668945,
+          "end": 29.569414138793945
+        },
+        {
+          "score": 0.000946712854783982,
+          "start": 33.141456604003906,
+          "end": 33.594947814941406
+        },
+        {
+          "score": 0.0009133940329775214,
+          "start": 29.63525390625,
+          "end": 30.143138885498047
+        },
+        {
+          "score": 0.0009089448140002787,
+          "start": 30.53835678100586,
+          "end": 31.12583351135254
+        },
+        {
+          "score": 0.0009014290408231318,
+          "start": 32.68739700317383,
+          "end": 33.08732986450195
+        },
+        {
+          "score": 0.0008447438012808561,
+          "start": 33.50293731689453,
+          "end": 34.06117248535156
+        },
+        {
+          "score": 0.0007451261626556516,
+          "start": 32.29590606689453,
+          "end": 32.79521942138672
+        },
+        {
+          "score": 0.0007362211472354829,
+          "start": 30.99125862121582,
+          "end": 31.59219741821289
+        },
+        {
+          "score": 0.0006770908948965371,
+          "start": 28.681299209594727,
+          "end": 28.905275344848633
+        }
+      ],
+      "valid": true,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": true,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 133,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 133,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 133,
+        "fraction_frames_with_visible_speech": 1.0
+      },
+      "message": "Valid segment. [Remarks] Faces detected at every frame. All detected faces are of adequate size to be processed. The depicted person is continuousely speaking during this segment. The segment is of adequate duration."
+    },
+    {
+      "start": 34.0013,
+      "end": 42.6413,
+      "num_frames": 216,
+      "duration": 8.64,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": false,
+        "all_frames_have_visible_speech": false,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 216,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 215,
+        "fraction_frames_with_sized_face": 0.9953703703703703,
+        "num_frames_with_visible_speech": 0,
+        "fraction_frames_with_visible_speech": 0.0
+      },
+      "message": "[Not valid because]: Some (or all) of the frames contain faces too small to be processed. The depicted person is not speaking at a part of (or throughout) this video segment. [Other remarks]: Faces detected at every frame. The segment is of adequate duration.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 42.6426,
+      "end": 62.1626,
+      "num_frames": 488,
+      "duration": 19.519999999999996,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": false,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 488,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 488,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 0,
+        "fraction_frames_with_visible_speech": 0.0
+      },
+      "message": "[Not valid because]: The depicted person is not speaking at a part of (or throughout) this video segment. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The segment is of adequate duration.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 62.1626,
+      "end": 63.9626,
+      "num_frames": 45,
+      "duration": 1.8000000000000043,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": true,
+        "frame_group_is_sized": false,
+        "num_frames_with_face": 45,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 45,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 45,
+        "fraction_frames_with_visible_speech": 1.0
+      },
+      "message": "[Not valid because]: The segment is too small to obtain reliable results. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The depicted person is continuousely speaking during this segment.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 63.9639,
+      "end": 64.7239,
+      "num_frames": 19,
+      "duration": 0.759999999999998,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": true,
+        "frame_group_is_sized": false,
+        "num_frames_with_face": 19,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 19,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 19,
+        "fraction_frames_with_visible_speech": 1.0
+      },
+      "message": "[Not valid because]: The segment is too small to obtain reliable results. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The depicted person is continuousely speaking during this segment.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 64.7239,
+      "end": 69.32390000000001,
+      "num_frames": 115,
+      "duration": 4.6000000000000085,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": false,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 115,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 115,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 0,
+        "fraction_frames_with_visible_speech": 0.0
+      },
+      "message": "[Not valid because]: The depicted person is not speaking at a part of (or throughout) this video segment. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The segment is of adequate duration.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 69.32390000000001,
+      "end": 71.2439,
+      "num_frames": 48,
+      "duration": 1.9199999999999875,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": true,
+        "frame_group_is_sized": false,
+        "num_frames_with_face": 48,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 48,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 48,
+        "fraction_frames_with_visible_speech": 1.0
+      },
+      "message": "[Not valid because]: The segment is too small to obtain reliable results. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The depicted person is continuousely speaking during this segment.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 71.2439,
+      "end": 85.2839,
+      "num_frames": 351,
+      "duration": 14.040000000000006,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": false,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 351,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 351,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 0,
+        "fraction_frames_with_visible_speech": 0.0
+      },
+      "message": "[Not valid because]: The depicted person is not speaking at a part of (or throughout) this video segment. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The segment is of adequate duration.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 85.2852,
+      "end": 106.4852,
+      "num_frames": 530,
+      "duration": 21.200000000000003,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": false,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 530,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 530,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 0,
+        "fraction_frames_with_visible_speech": 0.0
+      },
+      "message": "[Not valid because]: The depicted person is not speaking at a part of (or throughout) this video segment. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The segment is of adequate duration.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 106.4852,
+      "end": 106.6052,
+      "num_frames": 3,
+      "duration": 0.11999999999999034,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": true,
+        "frame_group_is_sized": false,
+        "num_frames_with_face": 3,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 3,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 3,
+        "fraction_frames_with_visible_speech": 1.0
+      },
+      "message": "[Not valid because]: The segment is too small to obtain reliable results. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The depicted person is continuousely speaking during this segment.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 106.6065,
+      "end": 119.2465,
+      "num_frames": 316,
+      "duration": 12.64,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": false,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 316,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 316,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 0,
+        "fraction_frames_with_visible_speech": 0.0
+      },
+      "message": "[Not valid because]: The depicted person is not speaking at a part of (or throughout) this video segment. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The segment is of adequate duration.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 119.2465,
+      "end": 120.3665,
+      "num_frames": 28,
+      "duration": 1.1200000000000045,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": true,
+        "all_frames_have_visible_speech": true,
+        "frame_group_is_sized": false,
+        "num_frames_with_face": 28,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 28,
+        "fraction_frames_with_sized_face": 1.0,
+        "num_frames_with_visible_speech": 28,
+        "fraction_frames_with_visible_speech": 1.0
+      },
+      "message": "[Not valid because]: The segment is too small to obtain reliable results. [Other remarks]: Faces detected at every frame. All detected faces are of adequate size to be processed. The depicted person is continuousely speaking during this segment.  See 'validity_details' of this segment for further information."
+    },
+    {
+      "start": 120.3665,
+      "end": 127.9265,
+      "num_frames": 189,
+      "duration": 7.560000000000002,
+      "fps": 25,
+      "resampled_video_frames": true,
+      "fake_period_scores": [],
+      "valid": false,
+      "validity_details": {
+        "all_frames_have_face": true,
+        "all_frames_have_sized_face": false,
+        "all_frames_have_visible_speech": false,
+        "frame_group_is_sized": true,
+        "num_frames_with_face": 189,
+        "fraction_frames_with_face": 1.0,
+        "num_frames_with_sized_face": 181,
+        "fraction_frames_with_sized_face": 0.9576719576719577,
+        "num_frames_with_visible_speech": 0,
+        "fraction_frames_with_visible_speech": 0.0
+      },
+      "message": "[Not valid because]: Some (or all) of the frames contain faces too small to be processed. The depicted person is not speaking at a part of (or throughout) this video segment. [Other remarks]: Faces detected at every frame. The segment is of adequate duration.  See 'validity_details' of this segment for further information."
+    }
+  ],
+  "fake_period_scores": [
+    {
+      "score": 0.6829052567481995,
+      "start": 31.682270050048828,
+      "end": 32.45701599121094
+    },
+    {
+      "score": 0.18800069391727448,
+      "start": 31.70611572265625,
+      "end": 32.45406723022461
+    },
+    {
+      "score": 0.07281500101089478,
+      "start": 31.475021362304688,
+      "end": 32.268096923828125
+    },
+    {
+      "score": 0.06009972468018532,
+      "start": 15.338510513305664,
+      "end": 15.953108787536621
+    },
+    {
+      "score": 0.04029979556798935,
+      "start": 31.25499725341797,
+      "end": 32.0794563293457
+    },
+    {
+      "score": 0.03834538161754608,
+      "start": 31.961151123046875,
+      "end": 32.704830169677734
+    },
+    {
+      "score": 0.028019219636917114,
+      "start": 32.91353225708008,
+      "end": 33.24794387817383
+    },
+    {
+      "score": 0.02537059225142002,
+      "start": 31.665494918823242,
+      "end": 32.49074935913086
+    },
+    {
+      "score": 0.0211174339056015,
+      "start": 15.623617172241211,
+      "end": 16.537273406982422
+    },
+    {
+      "score": 0.018665138632059097,
+      "start": 15.335845947265625,
+      "end": 16.016387939453125
+    },
+    {
+      "score": 0.018264267593622208,
+      "start": 32.11153030395508,
+      "end": 32.78693389892578
+    },
+    {
+      "score": 0.016694359481334686,
+      "start": 32.603294372558594,
+      "end": 33.05613708496094
+    },
+    {
+      "score": 0.012550128623843193,
+      "start": 31.172447204589844,
+      "end": 32.10310363769531
+    },
+    {
+      "score": 0.012444935739040375,
+      "start": 16.525997161865234,
+      "end": 17.017562866210938
+    },
+    {
+      "score": 0.010908464901149273,
+      "start": 32.828006744384766,
+      "end": 33.20012283325195
+    },
+    {
+      "score": 0.010474744252860546,
+      "start": 14.969613075256348,
+      "end": 15.613919258117676
+    },
+    {
+      "score": 0.010324599221348763,
+      "start": 16.130342483520508,
+      "end": 16.73284912109375
+    },
+    {
+      "score": 0.009113683365285397,
+      "start": 32.36572265625,
+      "end": 32.921695709228516
+    },
+    {
+      "score": 0.007481257431209087,
+      "start": 15.470373153686523,
+      "end": 16.26457977294922
+    },
+    {
+      "score": 0.007142731919884682,
+      "start": 31.654325485229492,
+      "end": 32.44129943847656
+    },
+    {
+      "score": 0.006667267065495253,
+      "start": 13.939330101013184,
+      "end": 14.513779640197754
+    },
+    {
+      "score": 0.005892051849514246,
+      "start": 28.681299209594727,
+      "end": 28.960981369018555
+    },
+    {
+      "score": 0.005469074472784996,
+      "start": 16.66324806213379,
+      "end": 17.101350784301758
+    },
+    {
+      "score": 0.004895457997918129,
+      "start": 16.279123306274414,
+      "end": 16.84412956237793
+    },
+    {
+      "score": 0.004762575961649418,
+      "start": 13.800000190734863,
+      "end": 14.118026733398438
+    },
+    {
+      "score": 0.004567333962768316,
+      "start": 14.309414863586426,
+      "end": 14.89706802368164
+    },
+    {
+      "score": 0.004487515427172184,
+      "start": 29.753494262695312,
+      "end": 30.29303741455078
+    },
+    {
+      "score": 0.0040687029249966145,
+      "start": 32.895137786865234,
+      "end": 33.28471374511719
+    },
+    {
+      "score": 0.003860228694975376,
+      "start": 29.372114181518555,
+      "end": 29.90566062927246
+    },
+    {
+      "score": 0.0035097727086395025,
+      "start": 14.93397045135498,
+      "end": 15.467004776000977
+    },
+    {
+      "score": 0.0032989413011819124,
+      "start": 32.11323928833008,
+      "end": 32.81121826171875
+    },
+    {
+      "score": 0.0030650494154542685,
+      "start": 32.561180114746094,
+      "end": 32.97138214111328
+    },
+    {
+      "score": 0.0029592523351311684,
+      "start": 15.245157241821289,
+      "end": 15.858579635620117
+    },
+    {
+      "score": 0.002910272916778922,
+      "start": 15.709774017333984,
+      "end": 16.600561141967773
+    },
+    {
+      "score": 0.0028683552518486977,
+      "start": 14.632635116577148,
+      "end": 15.206155776977539
+    },
+    {
+      "score": 0.002803476294502616,
+      "start": 31.12578582763672,
+      "end": 31.933475494384766
+    },
+    {
+      "score": 0.0026845631655305624,
+      "start": 33.2670783996582,
+      "end": 33.82218933105469
+    },
+    {
+      "score": 0.0026694464031606913,
+      "start": 30.062301635742188,
+      "end": 30.630338668823242
+    },
+    {
+      "score": 0.002578211249783635,
+      "start": 28.9143009185791,
+      "end": 29.406726837158203
+    },
+    {
+      "score": 0.002519544679671526,
+      "start": 13.800000190734863,
+      "end": 14.014142990112305
+    },
+    {
+      "score": 0.0025059664621949196,
+      "start": 14.139466285705566,
+      "end": 14.723999977111816
+    },
+    {
+      "score": 0.0024439662229269743,
+      "start": 16.788660049438477,
+      "end": 17.232471466064453
+    },
+    {
+      "score": 0.0024181546177715063,
+      "start": 28.681299209594727,
+      "end": 28.890148162841797
+    },
+    {
+      "score": 0.0022878197487443686,
+      "start": 33.58641815185547,
+      "end": 34.178958892822266
+    },
+    {
+      "score": 0.002184937009587884,
+      "start": 31.640432357788086,
+      "end": 32.49705123901367
+    },
+    {
+      "score": 0.0021668407134711742,
+      "start": 29.209609985351562,
+      "end": 29.729618072509766
+    },
+    {
+      "score": 0.0020463820546865463,
+      "start": 16.404268264770508,
+      "end": 16.907133102416992
+    },
+    {
+      "score": 0.002046102425083518,
+      "start": 32.988609313964844,
+      "end": 33.47489547729492
+    },
+    {
+      "score": 0.0018008282640948892,
+      "start": 30.34677505493164,
+      "end": 30.953031539916992
+    },
+    {
+      "score": 0.0017035584896802902,
+      "start": 30.82867431640625,
+      "end": 31.639617919921875
+    },
+    {
+      "score": 0.0016557896742597222,
+      "start": 15.346549987792969,
+      "end": 16.09957504272461
+    },
+    {
+      "score": 0.0016166857676580548,
+      "start": 32.78321838378906,
+      "end": 33.16441345214844
+    },
+    {
+      "score": 0.0016133413882926106,
+      "start": 13.876635551452637,
+      "end": 14.427399635314941
+    },
+    {
+      "score": 0.0014721817569807172,
+      "start": 29.92451286315918,
+      "end": 30.46533203125
+    },
+    {
+      "score": 0.0014360055793076754,
+      "start": 29.480424880981445,
+      "end": 29.987977981567383
+    },
+    {
+      "score": 0.0013381380122154951,
+      "start": 14.525457382202148,
+      "end": 15.115928649902344
+    },
+    {
+      "score": 0.0011575041571632028,
+      "start": 28.741493225097656,
+      "end": 29.260459899902344
+    },
+    {
+      "score": 0.001138307387009263,
+      "start": 16.717042922973633,
+      "end": 17.156465530395508
+    },
+    {
+      "score": 0.001091785030439496,
+      "start": 31.49502182006836,
+      "end": 32.342227935791016
+    },
+    {
+      "score": 0.0010804913472384214,
+      "start": 15.831436157226562,
+      "end": 16.573074340820312
+    },
+    {
+      "score": 0.0010390591342002153,
+      "start": 14.902853012084961,
+      "end": 15.536086082458496
+    },
+    {
+      "score": 0.0009955769637599587,
+      "start": 31.949478149414062,
+      "end": 32.66918182373047
+    },
+    {
+      "score": 0.0009589581750333309,
+      "start": 29.091630935668945,
+      "end": 29.569414138793945
+    },
+    {
+      "score": 0.000946712854783982,
+      "start": 33.141456604003906,
+      "end": 33.594947814941406
+    },
+    {
+      "score": 0.0009133940329775214,
+      "start": 29.63525390625,
+      "end": 30.143138885498047
+    },
+    {
+      "score": 0.0009089448140002787,
+      "start": 30.53835678100586,
+      "end": 31.12583351135254
+    },
+    {
+      "score": 0.0009014290408231318,
+      "start": 32.68739700317383,
+      "end": 33.08732986450195
+    },
+    {
+      "score": 0.0008447438012808561,
+      "start": 33.50293731689453,
+      "end": 34.06117248535156
+    },
+    {
+      "score": 0.0008339177584275603,
+      "start": 16.929588317871094,
+      "end": 17.504596710205078
+    },
+    {
+      "score": 0.0007451261626556516,
+      "start": 32.29590606689453,
+      "end": 32.79521942138672
+    },
+    {
+      "score": 0.0007362211472354829,
+      "start": 30.99125862121582,
+      "end": 31.59219741821289
+    },
+    {
+      "score": 0.0006770908948965371,
+      "start": 28.681299209594727,
+      "end": 28.905275344848633
+    },
+    {
+      "score": 0.000673505594022572,
+      "start": 16.360685348510742,
+      "end": 16.87154197692871
+    },
+    {
+      "score": 0.0006583860376849771,
+      "start": 14.02865982055664,
+      "end": 14.576031684875488
+    },
+    {
+      "score": 0.0006292782491073012,
+      "start": 15.500984191894531,
+      "end": 16.38195037841797
+    }
+  ],
+  "languages": [
+    "English",
+    "Breton",
+    "Romansh_Sursilvan"
+  ],
+  "metadata": {
+    "video": {
+      "exists": true,
+      "shape": [
+        1080,
+        1920
+      ],
+      "duration": 127.9278,
+      "fps": 29.97002997002997
+    },
+    "audio": {
+      "exists": true,
+      "duration": 127.961,
+      "framerate": 48000.0
+    },
+    "errors": []
+  },
+  "resampled_video_frames": true,
+  "resampled_fps": 25,
+  "valid_metadata": true,
+  "valid_video_segments": true,
+  "video_duration": 127.9278,
+  "valid_duration": 8.879999999999999,
+  "fake_part_duration": 4.123446464538574,
+  "score_prob_threshold": 46.435207933992956,
+  "score_sweep_line": 1.3300871680596869,
+  "decision": "not active: experimentation",
+  "video_duration_human_readable": "0:02:07.927800",
+  "processing_time": "0:01:05.182787",
+  "comments": "AuViRe is a deepfake detection and localization method that analyzes the visual and audio content of the video in a combined way. More specifically, the method tries to find mismatches between what is read from the lips of a person talking and what is heard from their voice. For that reason, this method is only meaningful when there is a clearly visible person talking in the video and their voice is audible. Cases where this method should NOT be used include videos without visible faces or very small faces, videos with no audio, videos where there is speech but not corresponding to the one of the depicted person (e.g. in cases of interviews where only the interviewee is shown but the interviewer's voice is audible), etc. The method is also somewhat sensitive and occasionally flags small parts of authentic videos as deepfakes - in such cases the analyst should look at the prevalence of flagged fake parts in the video - if they are sparse and few, then it is likely that the flagged parts were false positives."
+}
