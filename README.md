@@ -55,6 +55,9 @@ python inference.py -d avdeepfake1m -i <part-index>  # Should be 0-999
 
 The ablation analysis expects to also have (Ma et al. 2022) features extracted for LAV-DF, which can be done by following instructions in [https://github.com/mever-team/dimodif](https://github.com/mever-team/dimodif).
 
+## Checkpoints
+Download the model checkpoints from [https://zenodo.org/records/17698401](https://zenodo.org/records/17698401) and place them in `ckpt`.
+
 # Results
 To obtain the core results of the paper run:
 ```
