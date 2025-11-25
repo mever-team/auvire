@@ -1,5 +1,5 @@
 # AuViRe
-Implementation of WACV 2026 paper "AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization" by [Christos Koutlis](https://orcid.org/0000-0003-3682-408X) and [Symeon Papadopoulos](https://orcid.org/0000-0002-5441-7341), available at [TBD](https://arxiv.org/abs/tbd).
+Implementation of WACV 2026 paper "AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization" by [Christos Koutlis](https://orcid.org/0000-0003-3682-408X) and [Symeon Papadopoulos](https://orcid.org/0000-0002-5441-7341), available at [https://arxiv.org/abs/2511.18993](https://arxiv.org/abs/2511.18993).
 
 ![auvire](https://github.com/mever-team/auvire/blob/main/auvire-architecture.jpg)
 
