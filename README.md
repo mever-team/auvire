@@ -58,6 +58,10 @@ The ablation analysis expects to also have (Ma et al. 2022) features extracted f
 ## Checkpoints
 Download the model checkpoints from [https://zenodo.org/records/17698401](https://zenodo.org/records/17698401) and place them in `ckpt`.
 
+Alternatively, the checkpoints can be accessed through Hugging Face:
+* https://huggingface.co/ckoutlis/auvire-lavdf
+* https://huggingface.co/ckoutlis/auvire-avdeepfake1m
+
 # Results
 To obtain the core results of the paper run:
 ```
@@ -101,6 +105,9 @@ To download the real-world data run:
 ```
 python real-world-data/download.py
 ```
+
+Alternatively, the real-world data `.csv` file, with URLs and labels, can be accessed through Hugging Face:
+* https://huggingface.co/datasets/ckoutlis/auvire-real-world-data
 
 To obtain inference results on the real-world data run:
 ```
